@@ -53,6 +53,7 @@
 ### TUI
 
 * [rich](https://github.com/willmcgugan/rich)
+* [texttable](https://github.com/foutaise/texttable)
 * [tqdm](https://github.com/tqdm/tqdm)
 
 ### Unit Testing
