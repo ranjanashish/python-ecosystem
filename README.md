@@ -2,12 +2,19 @@
 
 ## Libraries and Tools
 
+### Databases
+
 ### HTTP
 
-* aiohttp
-* h11
-* h2
-* requests
+* clients
+  * requests
+* servers
+  * django
+  * flask
+* both
+  * aiohttp
+  * h11
+  * h2
 
 ### Unit Testing
 
