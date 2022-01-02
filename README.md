@@ -35,8 +35,8 @@
   * [flask](https://github.com/pallets/flask)
 * both
   * [aiohttp](https://github.com/aio-libs/aiohttp)
-  * [h11](https://github.com/python-hyper/h11)
-  * [h2](https://github.com/python-hyper/h2)
+  * [h11](https://github.com/python-hyper/h11) - HTTP/1.1 sans IO
+  * [h2](https://github.com/python-hyper/h2) - HTTP/2 sans IO
 
 ### Network
 
