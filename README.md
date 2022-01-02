@@ -42,7 +42,9 @@
 
 ### Static Analysis
 
+* [flake8](https://github.com/PyCQA/flake8)
 * [mypy](https://github.com/python/mypy)
+* [pydocstyle](https://github.com/PyCQA/pydocstyle)
 
 ### TUI
 
@@ -51,19 +53,27 @@
 
 ### Unit Testing
 
-* [coverage](https://github.com/nedbat/coveragepy)
+* [coveragepy](https://github.com/nedbat/coveragepy)
 * [faker](https://github.com/joke2k/faker)
 * [hypothesis](https://github.com/HypothesisWorks/hypothesis)
 * [localstack](https://github.com/localstack/localstack)
 * [pytest](https://github.com/pytest-dev/pytest)
   * [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio)
-  * [pytest-cov](https://github.com/pytest-dev/pytest-cov) - coverage plugin
+  * [pytest-cov](https://github.com/pytest-dev/pytest-cov) - coveragepy plugin
   * [pytest-flask](https://github.com/pytest-dev/pytest-flask)
   * [pytest-mock](https://github.com/pytest-dev/pytest-mock)
+
+### Utils
+
+* [humanize](https://github.com/jmoiron/humanize)
 
 ### XML
 
 * [lxml](https://github.com/lxml/lxml)
+
+### YAML
+
+* [pyyaml](https://github.com/yaml/pyyaml)
 
 ## Books
 
