@@ -5,10 +5,12 @@
 ### CLI
 
 * [click](https://github.com/pallets/click)
+* [typer](https://github.com/tiangolo/typer) - built on top of click
 
 ### Code Formatters
 
 * [black](https://github.com/psf/black)
+* [isort](https://github.com/PyCQA/isort)
 
 ### Databases
 
@@ -16,6 +18,7 @@
 * [pgcli](https://github.com/dbcli/pgcli)
 * [redis-py](https://github.com/redis/redis-py)
 * [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)
+* [sqlparse](https://github.com/andialbrecht/sqlparse)
 
 ### GUI
 
@@ -33,6 +36,10 @@
   * [h11](https://github.com/python-hyper/h11)
   * [h2](https://github.com/python-hyper/h2)
 
+### State Machines
+
+* [transitions](https://github.com/pytransitions/transitions)
+
 ### Static Analysis
 
 * [mypy](https://github.com/python/mypy)
@@ -44,13 +51,19 @@
 
 ### Unit Testing
 
+* [coverage](https://github.com/nedbat/coveragepy)
 * [faker](https://github.com/joke2k/faker)
+* [hypothesis](https://github.com/HypothesisWorks/hypothesis)
 * [localstack](https://github.com/localstack/localstack)
 * [pytest](https://github.com/pytest-dev/pytest)
-* [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio)
-* [pytest-cov](https://github.com/pytest-dev/pytest-cov)
-* [pytest-flask](https://github.com/pytest-dev/pytest-flask)
-* [pytest-mock](https://github.com/pytest-dev/pytest-mock)
+  * [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio)
+  * [pytest-cov](https://github.com/pytest-dev/pytest-cov) - coverage plugin
+  * [pytest-flask](https://github.com/pytest-dev/pytest-flask)
+  * [pytest-mock](https://github.com/pytest-dev/pytest-mock)
+
+### XML
+
+* [lxml](https://github.com/lxml/lxml)
 
 ## Books
 
