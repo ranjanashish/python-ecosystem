@@ -2,27 +2,39 @@
 
 ## Libraries and Tools
 
+### Code Formatters
+
+* [black](https://github.com/psf/black)
+
 ### Databases
+
+* [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)
 
 ### HTTP
 
 * clients
-  * requests
+  * [requests](https://github.com/psf/requests)
 * servers
-  * django
-  * flask
+  * [django](https://github.com/django/django)
+  * [flask](https://github.com/pallets/flask)
 * both
-  * aiohttp
-  * h11
-  * h2
+  * [aiohttp](https://github.com/aio-libs/aiohttp)
+  * [h11](https://github.com/python-hyper/h11)
+  * [h2](https://github.com/python-hyper/h2)
+
+### TUI
+
+* [rich](https://github.com/willmcgugan/rich)
+* [tqdm](https://github.com/tqdm/tqdm)
 
 ### Unit Testing
 
-* pytest
-* pytest-asyncio
-* pytest-cov
-* pytest-flask
-* pytest-mock
+* [localstack](https://github.com/localstack/localstack)
+* [pytest](https://github.com/pytest-dev/pytest)
+* [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio)
+* [pytest-cov](https://github.com/pytest-dev/pytest-cov)
+* [pytest-flask](https://github.com/pytest-dev/pytest-flask)
+* [pytest-mock](https://github.com/pytest-dev/pytest-mock)
 
 ## Books
 
