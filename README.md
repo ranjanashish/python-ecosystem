@@ -14,7 +14,7 @@
 
 ### Databases
 
-* [alembic](https://github.com/sqlalchemy/alembic) - manage database migrations
+* [alembic](https://github.com/sqlalchemy/alembic) - manages database migrations
 * [redis-py](https://github.com/redis/redis-py)
 * [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)
 * [sqlparse](https://github.com/andialbrecht/sqlparse)
