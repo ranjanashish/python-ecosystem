@@ -9,13 +9,13 @@
 
 ### Code Formatters
 
-* [black](https://github.com/psf/black)
-* [isort](https://github.com/PyCQA/isort)
+* [black](https://github.com/psf/black) - formats Python code but does not sort imports
+* [isort](https://github.com/PyCQA/isort) - only sorts imports
 
 ### Databases
 
-* [mycli](https://github.com/dbcli/mycli)
-* [pgcli](https://github.com/dbcli/pgcli)
+* [mycli](https://github.com/dbcli/mycli) - terminal client for MySQL
+* [pgcli](https://github.com/dbcli/pgcli) - terminal clietn for PostgreSQL
 * [redis-py](https://github.com/redis/redis-py)
 * [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)
 * [sqlparse](https://github.com/andialbrecht/sqlparse)
@@ -75,6 +75,7 @@
   * [pytest-cov](https://github.com/pytest-dev/pytest-cov) - coveragepy plugin
   * [pytest-flask](https://github.com/pytest-dev/pytest-flask)
   * [pytest-mock](https://github.com/pytest-dev/pytest-mock)
+* [testcontainers-python](https://github.com/testcontainers/testcontainers-python)
 
 ### Utils
 
