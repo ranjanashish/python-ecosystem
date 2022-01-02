@@ -14,8 +14,6 @@
 
 ### Databases
 
-* [mycli](https://github.com/dbcli/mycli) - terminal client for MySQL
-* [pgcli](https://github.com/dbcli/pgcli) - terminal clietn for PostgreSQL
 * [redis-py](https://github.com/redis/redis-py)
 * [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)
 * [sqlparse](https://github.com/andialbrecht/sqlparse)
