@@ -11,6 +11,8 @@
 
 * Fluent Python
 
-## Videos
+## Blogs
+
+## Talks
 
 * [Raymond Hettinger - Super considered super! - PyCon 2015](https://www.youtube.com/watch?v=EiOglTERPEo)
