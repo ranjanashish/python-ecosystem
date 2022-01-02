@@ -36,7 +36,7 @@
   * [h11](https://github.com/python-hyper/h11)
   * [h2](https://github.com/python-hyper/h2)
 
-### State Machines
+### State Machine
 
 * [transitions](https://github.com/pytransitions/transitions)
 
