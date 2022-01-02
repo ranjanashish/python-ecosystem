@@ -4,8 +4,18 @@
 
 ### HTTP
 
+* aiohttp
+* h11
 * h2
 * requests
+
+### Unit Testing
+
+* pytest
+* pytest-asyncio
+* pytest-cov
+* pytest-flask
+* pytest-mock
 
 ## Books
 
