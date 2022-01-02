@@ -20,6 +20,10 @@
 * [sqlalchemy](https://github.com/sqlalchemy/sqlalchemy)
 * [sqlparse](https://github.com/andialbrecht/sqlparse)
 
+### Date Time
+
+* [dateutil](https://github.com/dateutil/dateutil)
+
 ### GUI
 
 * [Gooey](https://github.com/chriskiehl/Gooey)
