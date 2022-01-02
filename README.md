@@ -40,6 +40,14 @@
   * [h11](https://github.com/python-hyper/h11)
   * [h2](https://github.com/python-hyper/h2)
 
+### Network
+
+* [netaddr](https://github.com/netaddr/netaddr)
+
+### Resiliency
+
+* [pyfailsafe](https://github.com/Skyscanner/pyfailsafe)
+
 ### State Machine
 
 * [transitions](https://github.com/pytransitions/transitions)
@@ -75,6 +83,7 @@
 ### XML
 
 * [lxml](https://github.com/lxml/lxml)
+* [xmltodict](https://github.com/martinblech/xmltodict)
 
 ### YAML
 
